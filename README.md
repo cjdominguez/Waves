@@ -1,5 +1,5 @@
 # Project name: Waves
-![alt text](http://url/to/.png)
+![alt text](http://url/to/WavesTitleScreen.png)
 # Description: 
 Waves(Surfer bro) is the ultimate 2D game. Assist our Surfer Character (Mark Zuckenberg) to ride the waves and collect more than 20 coins in order to win the game. 
 Waves (Surfer Bro) it is part of a python programming class at Saint Leo University. This project was created by python students in order to develop their abilities on programming and have a learning experience on how to code, test, and develop games.
