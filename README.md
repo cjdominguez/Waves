@@ -3,11 +3,11 @@
 <img width="912" alt="WavesTitleScreen" src="https://user-images.githubusercontent.com/62302534/101920579-fc11eb80-3b99-11eb-8e39-2f9efbe31656.png">
 
 
-# Description: 
+# About The Project: 
 Waves(Surfer bro) is the ultimate 2D game. Assist our Surfer Character (Mark Zuckenberg) to ride the waves and collect more than 20 coins in order to win the game. 
 Waves (Surfer Bro) it is part of a python programming class at Saint Leo University. This project was created by python students in order to develop their abilities on programming and have a learning experience on how to code, test, and develop games.
 
-# Installation: 
+# How to Install: 
 Download the zip file with the game waves.py and the sprite .png files (mark1.png and plane1.png) and the music file (alexander-nakarada-chase.mp3) and place it on your python IDLE location. All files have to be in the same directory.
 Run the code on the Python IDLE, and enjoy the game!
 
