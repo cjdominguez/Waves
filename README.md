@@ -77,10 +77,10 @@ School Email: aquiles.velasquez@email.saintleo.edu
 
 
 # Acknowledgements 
-### * Christian Dominguez
+* Christian Dominguez
 
-### * Regina Plummer
+* Regina Plummer
 
-### * Aquiles Velasquez
+* Aquiles Velasquez
 
 # License: 
