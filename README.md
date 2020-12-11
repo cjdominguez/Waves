@@ -29,13 +29,21 @@ Left – surfer moves to the left.  If surfer touches the left side of the scree
 
 ## Instruction Screen – mouse click to continue
 
-![](semester-team-project-team_a2/Instructions.png)
+<img width="912" alt="Screen Shot 2020-12-10 at 9 05 42 PM" src="https://user-images.githubusercontent.com/62302534/101920996-7b072400-3b9a-11eb-80a5-b3526157ecab.png">
+
 
 ## Play Screen – directional keys, mouse disabled, ESC to pause
 
+<img width="912" alt="Screen Shot 2020-12-10 at 9 06 04 PM" src="https://user-images.githubusercontent.com/62302534/101920993-7a6e8d80-3b9a-11eb-99f0-111be04f15b0.png">
+
+
 ## Pause Screen – ESC to continue, ENTER to restart
 
+<img width="912" alt="Screen Shot 2020-12-10 at 9 06 08 PM" src="https://user-images.githubusercontent.com/62302534/101920984-780c3380-3b9a-11eb-8e59-899481b4b722.png">
+
 ## Game Over – when surfer touches left side of screen. Mouse click to restart
+
+
 
 ## Game Won – when surfer collects more than 20 coins.  Mouse click to continue
 
