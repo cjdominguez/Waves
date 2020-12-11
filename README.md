@@ -1,7 +1,7 @@
-# Project name: Waves
 
 <img width="912" alt="WavesTitleScreen" src="https://user-images.githubusercontent.com/62302534/101920579-fc11eb80-3b99-11eb-8e39-2f9efbe31656.png">
 
+# Project name: Waves
 
 # About The Project: 
 Waves(Surfer bro) is the ultimate 2D game. Assist our Surfer Character (Mark Zuckenberg) to ride the waves and collect more than 20 coins in order to win the game. 
