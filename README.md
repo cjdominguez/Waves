@@ -61,16 +61,13 @@ Waves of random size roll across the screen at random speeds. Waves are generate
 Plane:The plane will be the enemy of the game.it will try to avoid the surfer collecting coins
 
 # Contact
- Christian Dominguez 
- Email - cjd1123@gmail.com
- School Email - christian.domingue@email.saintleo.edu
- Instagram - @ikerwulf
+ Christian Dominguez - Email: cjd1123@gmail.com School Email: christian.domingue@email.saintleo.edu Instagram: @ikerwulf
 
-Regina Plummer 
-School Email - regina.plummer@saintleo.edu
+Regina Plummer - 
+School Email: regina.plummer@saintleo.edu
 
-Aquiles Velasquez
-School Email - aquiles.velasquez@email.saintleo.edu
+Aquiles Velasquez - 
+School Email: aquiles.velasquez@email.saintleo.edu
 
 
 
