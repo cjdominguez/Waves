@@ -71,7 +71,7 @@ Plane:The plane will be the enemy of the game.it will try to avoid the surfer co
 School Email: regina.plummer@saintleo.edu
 
 * Aquiles Velasquez - 
-School Email: aquiles.velasquez@email.saintleo.edu
+School Email: aquiles.velasquez@email.saintleo.edu 
 
 
 
