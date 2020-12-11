@@ -1,6 +1,6 @@
 # Project name: Waves
 
-<img width="1137" alt="WavesTitleScreen" src="https://user-images.githubusercontent.com/62302534/101920579-fc11eb80-3b99-11eb-8e39-2f9efbe31656.png">
+<img width="912" alt="WavesTitleScreen" src="https://user-images.githubusercontent.com/62302534/101920579-fc11eb80-3b99-11eb-8e39-2f9efbe31656.png">
 
 
 # Description: 
@@ -26,6 +26,8 @@ Left – surfer moves to the left.  If surfer touches the left side of the scree
 # Screens:
 ## Welcome Screen – mouse click to continue.
 
+<img width="912" alt="WavesTitleScreen" src="https://user-images.githubusercontent.com/62302534/101920579-fc11eb80-3b99-11eb-8e39-2f9efbe31656.png">
+
 
 ## Instruction Screen – mouse click to continue
 
@@ -43,9 +45,12 @@ Left – surfer moves to the left.  If surfer touches the left side of the scree
 
 ## Game Over – when surfer touches left side of screen. Mouse click to restart
 
+<img width="912" alt="Screen Shot 2020-12-11 at 10 31 40 AM" src="https://user-images.githubusercontent.com/62302534/101922669-61ff7280-3b9c-11eb-86fa-d7bf1ed1f270.png">
 
 
 ## Game Won – when surfer collects more than 20 coins.  Mouse click to continue
+
+<img width="912" alt="Screen Shot 2020-12-11 at 10 32 15 AM" src="https://user-images.githubusercontent.com/62302534/101922538-367c8800-3b9c-11eb-8bc0-32a626967d4f.png">
 
 ### Coins:
 Coins are randomly placed above the surf line, 5 at a time, at random intervals of time.
