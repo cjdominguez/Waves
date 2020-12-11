@@ -60,13 +60,17 @@ Coin disappears when surfer collides with it. Score is incremented.
 Waves of random size roll across the screen at random speeds. Waves are generated at random intervals.
 Plane:The plane will be the enemy of the game.it will try to avoid the surfer collecting coins
 
-# Contact
- Christian Dominguez - Email: cjd1123@gmail.com School Email: christian.domingue@email.saintleo.edu Instagram: @ikerwulf
+# Demo Link
 
-Regina Plummer - 
+<http://https://web.microsoftstream.com/video/e7e1c419-777e-4953-935a-764c10a74e06/>
+
+# Contact
+* Christian Dominguez - Email: cjd1123@gmail.com School Email: christian.domingue@email.saintleo.edu Instagram: @ikerwulf
+
+* Regina Plummer - 
 School Email: regina.plummer@saintleo.edu
 
-Aquiles Velasquez - 
+* Aquiles Velasquez - 
 School Email: aquiles.velasquez@email.saintleo.edu
 
 
