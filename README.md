@@ -15,13 +15,13 @@ Run the code on the Python IDLE, and enjoy the game!
 
 ## Directional Keys: 
 
-Up – surfer moves up the screen, when key released, surfer falls down with gravity. When surfer reaches top of screen, he stays on screen. Screen does not scroll down.
+* Up – surfer moves up the screen, when key released, surfer falls down with gravity. When surfer reaches top of screen, he stays on screen. Screen does not scroll down.
 
-Down – surfer moves down the screen, when key released, surfer continues down with gravity. When surfer reaches bottom of screen, he stays on screen. Screen does not scroll up.
+* Down – surfer moves down the screen, when key released, surfer continues down with gravity. When surfer reaches bottom of screen, he stays on screen. Screen does not scroll up.
 
-Right – surfer moves to right. When surfer crosses 25% of the screen, scrolling begins. When surfer reaches a marginal point on the right, the screen scroll speed matches the speed of the surfer, so the surfer stays on the screen.
+* Right – surfer moves to right. When surfer crosses 25% of the screen, scrolling begins. When surfer reaches a marginal point on the right, the screen scroll speed matches the speed of the surfer, so the surfer stays on the screen.
 
-Left – surfer moves to the left.  If surfer touches the left side of the screen, Game Over.  If surfer stops on the screen while scroll if on and is brought to the left side of the screen, Game Over.
+* Left – surfer moves to the left.  If surfer touches the left side of the screen, Game Over.  If surfer stops on the screen while scroll if on and is brought to the left side of the screen, Game Over.
 
 # Screens: 
 ## Welcome Screen – mouse click to continue.
@@ -62,7 +62,7 @@ Plane:The plane will be the enemy of the game.it will try to avoid the surfer co
 
 # Demo Link
 
-<http://https://web.microsoftstream.com/video/e7e1c419-777e-4953-935a-764c10a74e06/>
+* <http://https://web.microsoftstream.com/video/e7e1c419-777e-4953-935a-764c10a74e06/>
 
 # Contact
 * Christian Dominguez - Email: cjd1123@gmail.com School Email: christian.domingue@email.saintleo.edu Instagram: @ikerwulf
