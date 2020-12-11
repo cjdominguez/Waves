@@ -23,7 +23,7 @@ Right – surfer moves to right. When surfer crosses 25% of the screen, scrollin
 
 Left – surfer moves to the left.  If surfer touches the left side of the screen, Game Over.  If surfer stops on the screen while scroll if on and is brought to the left side of the screen, Game Over.
 
-# Screens:
+# Screens: 
 ## Welcome Screen – mouse click to continue.
 
 <img width="912" alt="WavesTitleScreen" src="https://user-images.githubusercontent.com/62302534/101920579-fc11eb80-3b99-11eb-8e39-2f9efbe31656.png">
